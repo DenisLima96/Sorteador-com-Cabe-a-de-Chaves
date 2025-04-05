@@ -1,6 +1,7 @@
 # Sorteador com Cabeça de Chaves
 
 Um aplicativo web simples para sortear times em grupos com suporte a cabeças de chave para torneios.
+https://sorteador-com-cabe-a-de-chaves.vercel.app
 
 
 
